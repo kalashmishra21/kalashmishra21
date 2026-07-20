@@ -59,7 +59,7 @@
   </svg>
 
   <div style={{ position: 'relative', display: 'flex', flexDirection: 'column', alignItems: 'center', zIndex: 10 }}>
-    <span style={{ fontSize: 60, fontWeight: 700, color: '#ffffff', letterSpacing: -2, lineHeight: 1 }}>{(github && github.user && (github.user.name || github.user.login)) || 'GitHub Developer'}</span>
+    <span style={{ fontSize: 60, fontWeight: 700, color: '#ffffff', letterSpacing: -2, lineHeight: 1 }}>{(github && github.user && (github.user.name || github.user.login)) || 'Kalash Mishra'}</span>
     <span style={{ fontSize: 13, color: 'rgba(255,255,255,0.4)', marginTop: 16, letterSpacing: 5, textTransform: 'uppercase', fontWeight: 300 }}>design · code · create</span>
     <div style={{ display: 'flex', gap: 8, marginTop: 30 }}>
       <span style={{ padding: '5px 16px', background: 'rgba(255,255,255,0.04)', color: 'rgba(255,255,255,0.55)', borderRadius: 100, fontSize: 11, border: '1px solid rgba(255,255,255,0.09)', letterSpacing: 1 }}>minimalism</span>
@@ -146,7 +146,6 @@
   <style>{`
     @keyframes stack-orb { 0%, 100% { transform: translate(0,0); opacity: 0.45; } 50% { transform: translate(18px,-14px); opacity: 0.7; } }
     @keyframes stack-orb-b { 0%, 100% { transform: translate(0,0); opacity: 0.4; } 50% { transform: translate(-14px,10px); opacity: 0.65; } }
-    @keyframes chip-appear { 0% { opacity: 0; transform: translateY(8px); } 100% { opacity: 1; transform: translateY(0); } }
     #st-o1 { animation: stack-orb 10s ease-in-out infinite; }
     #st-o2 { animation: stack-orb-b 12s ease-in-out infinite 1s; }
     #st-o3 { animation: stack-orb 9s ease-in-out infinite 2.5s; }
@@ -180,7 +179,7 @@
   <div style={{ display: 'flex', flexWrap: 'wrap', gap: 10, justifyContent: 'center', zIndex: 10, maxWidth: 680 }}>
     {(github && github.languages && github.languages.length > 0
       ? github.languages.slice(0, 10).map(function(l) { return l.name; })
-      : ['TypeScript', 'React', 'Node.js', 'Rust', 'Go', 'PostgreSQL', 'Docker', 'Figma', 'SVG', 'CSS']
+      : ['Java', 'DSA', 'Python', 'JavaScript', 'Go', 'AI & ML', 'React', 'Node.js', 'HTML', 'CSS']
     ).map((tech, i) => (
       <span key={i} style={{ padding: '7px 18px', background: 'rgba(255,255,255,0.04)', color: 'rgba(255,255,255,0.65)', borderRadius: 100, fontSize: 12, border: '1px solid rgba(255,255,255,0.08)', letterSpacing: 0.5 }}>{tech}</span>
     ))}
@@ -206,7 +205,7 @@
 />
 ```
 
-```aura width=138 height=44 link="https://x.com/collectioneur" inline align=center
+```aura width=138 height=44 link="https://x.com/kalashmishra21" inline align=center
 <SocialMediaButton
   icon="https://cdn.simpleicons.org/x/ffffff"
   text="X.com"
@@ -224,7 +223,7 @@
 />
 ```
 
-```aura width=130 height=44 link="https://t.me/collectioneur" inline align=center
+```aura width=130 height=44 link="https://t.me/kalashmishra21" inline align=center
 <SocialMediaButton
   icon="https://cdn.simpleicons.org/telegram/26A5E4"
   text="Telegram"
@@ -254,6 +253,24 @@
     { offset: '10%', color: '#111111' },
     { offset: '50%', color: '#eeeeee' },
     { offset: '60%', color: '#EA4335' },
+    { offset: '80%', color: '#111111' },
+    { offset: '100%', color: '#555555' },
+  ]}
+/>
+```
+
+```aura width=138 height=44 link="https://www.linkedin.com/in/kalashmishra21/" inline align=center
+<SocialMediaButton
+  icon="https://cdn.simpleicons.org/linkedin/0A66C2"
+  text="LinkedIn"
+  backgroundColor="#00111f"
+  width={138}
+  height={44}
+  gradientStops={[
+    { offset: '0%', color: '#ffffff' },
+    { offset: '10%', color: '#111111' },
+    { offset: '50%', color: '#eeeeee' },
+    { offset: '60%', color: '#0A66C2' },
     { offset: '80%', color: '#111111' },
     { offset: '100%', color: '#555555' },
   ]}
