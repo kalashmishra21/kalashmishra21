@@ -3,7 +3,6 @@
 
     @keyframes stack-orb { 0%, 100% { transform: translate(0,0); opacity: 0.45; } 50% { transform: translate(18px,-14px); opacity: 0.7; } }
     @keyframes stack-orb-b { 0%, 100% { transform: translate(0,0); opacity: 0.4; } 50% { transform: translate(-14px,10px); opacity: 0.65; } }
-    @keyframes chip-appear { 0% { opacity: 0; transform: translateY(8px); } 100% { opacity: 1; transform: translateY(0); } }
     #st-o1 { animation: stack-orb 10s ease-in-out infinite; }
     #st-o2 { animation: stack-orb-b 12s ease-in-out infinite 1s; }
     #st-o3 { animation: stack-orb 9s ease-in-out infinite 2.5s; }
