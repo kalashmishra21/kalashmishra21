@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/assets/generated/hero.svg" alt="Monalisa Octocat — Profile Hero" width="100%" />
+  <img src=".github/assets/generated/hero.svg" alt="Kalash Mishra — Profile Hero" width="100%" />
 </div>
 
 ---
@@ -27,7 +27,7 @@
 ### 🤝 Connect & Social Links
 
 <p align="center">
-<a href="https://github.com/octocat"><img src="https://img.shields.io/badge/GITHUB-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a> <a href="https://linkedin.com/in/octocat"><img src="https://img.shields.io/badge/LINKEDIN-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> <a href="mailto:octocat@github.com"><img src="https://img.shields.io/badge/EMAIL-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://github.com/kalashmishra21"><img src="https://img.shields.io/badge/GITHUB-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a> <a href="https://www.linkedin.com/in/kalashmishra21"><img src="https://img.shields.io/badge/LINKEDIN-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> <a href="mailto:kalashji21@gmail.com"><img src="https://img.shields.io/badge/EMAIL-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
 </div>

@@ -1,0 +1,82 @@
+{
+  "github": {
+    "username": "kalashmishra21"
+  },
+  "profile": {
+    "name": "Kalash Mishra",
+    "username": "kalashmishra21",
+    "roles": [
+      "Full Stack Developer",
+      "Open Source Enthusiast"
+    ],
+    "bio": "Building tools to make developers' lives easier.",
+    "company": "Independent Developer",
+    "location": "India",
+    "website": "https://github.com/kalashmishra21",
+    "socials": {
+      "github": "https://github.com/kalashmishra21",
+      "linkedin": "https://www.linkedin.com/in/kalashmishra21",
+      "email": "mailto:kalashji21@gmail.com"
+    }
+  },
+  "theme": "void-dark",
+  "template": "bento-grid",
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "style": "magazine"
+    },
+    "stats": {
+      "enabled": true,
+      "show": [
+        "contributions",
+        "commits",
+        "prs",
+        "issues",
+        "stars",
+        "streak"
+      ]
+    },
+    "streak": {
+      "enabled": true
+    },
+    "techStack": {
+      "enabled": true,
+      "categories": [
+        {
+          "category": "Core & Scripting",
+          "skills": [
+            "JavaScript",
+            "TypeScript",
+            "Python"
+          ]
+        },
+        {
+          "category": "Frontend",
+          "skills": [
+            "React",
+            "TailwindCSS",
+            "HTML5",
+            "CSS3"
+          ]
+        },
+        {
+          "category": "Backend & Tools",
+          "skills": [
+            "Node.js",
+            "Git"
+          ]
+        }
+      ]
+    },
+    "socials": {
+      "enabled": true
+    }
+  },
+  "output": {
+    "readmePath": "README.md",
+    "assetsDir": ".github/assets/generated",
+    "heroSvgFilename": "hero.svg",
+    "statsSvgFilename": "stats.svg"
+  }
+}
