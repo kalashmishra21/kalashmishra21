@@ -27,7 +27,7 @@
 ### 🤝 Connect & Social Links
 
 <p align="center">
-<a href="https://github.com/octocat"><img src="https://img.shields.io/badge/GITHUB-10B981?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a> <a href="https://linkedin.com/in/octocat"><img src="https://img.shields.io/badge/LINKEDIN-10B981?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> <a href="mailto:octocat@github.com"><img src="https://img.shields.io/badge/EMAIL-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://github.com/octocat"><img src="https://img.shields.io/badge/GITHUB-E4E4E7?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a> <a href="https://linkedin.com/in/octocat"><img src="https://img.shields.io/badge/LINKEDIN-E4E4E7?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> <a href="mailto:octocat@github.com"><img src="https://img.shields.io/badge/EMAIL-E4E4E7?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
 </div>
