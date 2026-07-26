@@ -1,35 +1,23 @@
 <div align="center">
-  <img src=".github/assets/generated/hero.svg" alt="Kalash Mishra — Profile Hero" width="100%" />
+  <img src=".github/assets/generated/hero.svg?v=1785046461" alt="Kalash Mishra — Profile Hero" width="100%" />
 </div>
 
 ---
 
 <div align="center">
-  <img src=".github/assets/generated/overview.svg" alt="Profile Overview" width="100%" />
+  <img src=".github/assets/generated/overview.svg?v=1785046461" alt="Profile Overview" width="100%" />
 </div>
 
 ---
 
 <div align="center">
-  <img src=".github/assets/generated/metrics.svg" alt="Profile Metrics" width="100%" />
+  <img src=".github/assets/generated/metrics.svg?v=1785046461" alt="Profile Metrics" width="100%" />
 </div>
 
 ---
 
 <div align="center">
-  <img src=".github/assets/generated/techstack.svg" alt="Technical Ecosystem" width="100%" />
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Connect & Social Links
-
-<p align="center">
-<a href="https://github.com/octocat"><img src="https://img.shields.io/badge/GITHUB-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a> <a href="https://linkedin.com/in/octocat"><img src="https://img.shields.io/badge/LINKEDIN-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> <a href="mailto:octocat@github.com"><img src="https://img.shields.io/badge/EMAIL-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-</p>
-
+  <img src=".github/assets/generated/techstack.svg?v=1785046461" alt="Technical Ecosystem" width="100%" />
 </div>
 
 ---
