@@ -10,9 +10,9 @@
       "Open Source Developer",
       "Full Stack Engineer"
     ],
-    "bio": "",
+    "bio": "Full Stack Engineer passionate about building scalable web applications with React, Node.js, and Python. Open source contributor and lifelong learner.",
     "company": "",
-    "location": "",
+    "location": "India",
     "website": "",
     "avatarUrl": "",
     "socials": {}
@@ -43,10 +43,10 @@
         {
           "category": "Languages",
           "skills": [
-            "TypeScript",
             "JavaScript",
+            "TypeScript",
             "Python",
-            "Go"
+            "HTML"
           ]
         },
         {
@@ -55,7 +55,7 @@
             "React",
             "Next.js",
             "Node.js",
-            "TailwindCSS"
+            "Django"
           ]
         }
       ]
