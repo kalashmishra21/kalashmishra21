@@ -1,26 +1,28 @@
 {
   "github": {
-    "username": "kalashmishra21"
+    "username": "kalashmishra21",
+    "includePrivate": false
   },
   "profile": {
     "name": "Kalash Mishra",
     "username": "kalashmishra21",
     "roles": [
-      "Full Stack Developer",
-      "Open Source Enthusiast"
+      "Open Source Developer",
+      "Full Stack Engineer"
     ],
-    "bio": "Building tools to make developers' lives easier.",
-    "company": "Independent Developer",
-    "location": "India",
-    "website": "https://github.com/kalashmishra21",
+    "bio": "Building open source software for developers worldwide.",
+    "company": "GitHub",
+    "location": "San Francisco, CA",
+    "website": "https://github.com",
+    "avatarUrl": "https://github.com/octocat.png",
     "socials": {
-      "github": "https://github.com/kalashmishra21",
-      "linkedin": "https://www.linkedin.com/in/kalashmishra21",
-      "email": "mailto:kalashji21@gmail.com"
+      "github": "https://github.com/octocat",
+      "linkedin": "https://linkedin.com/in/octocat",
+      "email": "mailto:octocat@github.com"
     }
   },
-  "theme": "void-dark",
-  "template": "bento-grid",
+  "theme": "random",
+  "template": "editorial-hero",
   "sections": {
     "hero": {
       "enabled": true,
@@ -33,8 +35,7 @@
         "commits",
         "prs",
         "issues",
-        "stars",
-        "streak"
+        "stars"
       ]
     },
     "streak": {
@@ -44,27 +45,21 @@
       "enabled": true,
       "categories": [
         {
-          "category": "Core & Scripting",
+          "category": "Languages",
           "skills": [
-            "JavaScript",
             "TypeScript",
-            "Python"
+            "JavaScript",
+            "Python",
+            "Go"
           ]
         },
         {
-          "category": "Frontend",
+          "category": "Frameworks",
           "skills": [
             "React",
-            "TailwindCSS",
-            "HTML5",
-            "CSS3"
-          ]
-        },
-        {
-          "category": "Backend & Tools",
-          "skills": [
+            "Next.js",
             "Node.js",
-            "Git"
+            "TailwindCSS"
           ]
         }
       ]
@@ -80,4 +75,3 @@
     "statsSvgFilename": "stats.svg"
   }
 }
-

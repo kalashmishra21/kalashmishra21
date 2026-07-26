@@ -1,8 +1,8 @@
 {
-  "github-profile-data-octocat": {
+  "github-profile-data-kalashmishra21": {
     "data": {
-      "name": "Monalisa Octocat",
-      "username": "octocat",
+      "name": "Kalash Mishra",
+      "username": "kalashmishra21",
       "roles": [
         "Open Source Developer",
         "Full Stack Engineer"
@@ -11,133 +11,26 @@
       "company": "GitHub",
       "location": "San Francisco, CA",
       "website": "https://github.com",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/583231?v=4",
-      "followers": 23416,
-      "following": 9,
-      "publicRepos": 8,
-      "stats": {
-        "totalStars": 21858
-      },
-      "repositories": [
-        {
-          "name": "Hello-World",
-          "description": "My first repository on GitHub!",
-          "url": "https://github.com/octocat/Hello-World",
-          "stargazerCount": 3731,
-          "forkCount": 6299,
-          "primaryLanguage": null,
-          "isFork": false,
-          "updatedAt": "2026-07-25T12:11:23Z",
-          "license": null
-        },
-        {
-          "name": "Spoon-Knife",
-          "description": "This repo is for demonstration purposes only.",
-          "url": "https://github.com/octocat/Spoon-Knife",
-          "stargazerCount": 13927,
-          "forkCount": 158135,
-          "primaryLanguage": {
-            "name": "HTML",
-            "color": "#38BDF8"
-          },
-          "isFork": false,
-          "updatedAt": "2026-07-25T10:32:04Z",
-          "license": null
-        },
-        {
-          "name": "octocat.github.io",
-          "description": "",
-          "url": "https://github.com/octocat/octocat.github.io",
-          "stargazerCount": 1139,
-          "forkCount": 563,
-          "primaryLanguage": {
-            "name": "CSS",
-            "color": "#38BDF8"
-          },
-          "isFork": false,
-          "updatedAt": "2026-07-25T03:08:35Z",
-          "license": null
-        },
-        {
-          "name": "hello-worId",
-          "description": "My first repository on GitHub.",
-          "url": "https://github.com/octocat/hello-worId",
-          "stargazerCount": 775,
-          "forkCount": 289,
-          "primaryLanguage": null,
-          "isFork": false,
-          "updatedAt": "2026-07-23T12:38:35Z",
-          "license": null
-        },
-        {
-          "name": "boysenberry-repo-1",
-          "description": "Testing",
-          "url": "https://github.com/octocat/boysenberry-repo-1",
-          "stargazerCount": 467,
-          "forkCount": 27,
-          "primaryLanguage": null,
-          "isFork": true,
-          "updatedAt": "2026-07-23T12:38:35Z",
-          "license": null
-        },
-        {
-          "name": "test-repo1",
-          "description": "",
-          "url": "https://github.com/octocat/test-repo1",
-          "stargazerCount": 473,
-          "forkCount": 45,
-          "primaryLanguage": null,
-          "isFork": false,
-          "updatedAt": "2026-07-22T03:06:21Z",
-          "license": null
-        }
-      ],
-      "topLanguages": [
-        {
-          "name": "HTML",
-          "count": 1,
-          "color": "#38BDF8"
-        },
-        {
-          "name": "CSS",
-          "count": 1,
-          "color": "#38BDF8"
-        },
-        {
-          "name": "Ruby",
-          "count": 1,
-          "color": "#38BDF8"
-        }
-      ],
-      "socials": {
-        "github": "https://github.com/octocat",
-        "linkedin": "https://linkedin.com/in/octocat",
-        "email": "mailto:octocat@github.com"
-      }
-    },
-    "timestamp": 1784996666927,
-    "ttlMs": 86400000
-  },
-  "github-profile-data-kalashmishra21": {
-    "data": {
-      "name": "Kalash Mishra",
-      "username": "kalashmishra21",
-      "roles": [
-        "Full Stack Developer",
-        "Open Source Enthusiast"
-      ],
-      "bio": "Building tools to make developers' lives easier.",
-      "company": "Independent Developer",
-      "location": "India",
-      "website": "https://github.com/kalashmishra21",
       "avatarUrl": "https://avatars.githubusercontent.com/u/182469784?v=4",
       "followers": 8,
-      "following": 12,
+      "following": 11,
       "publicRepos": 11,
       "stats": {
-        "totalStars": 4
+        "totalStars": 4,
+        "totalContributions": 140
       },
       "repositories": [
+        {
+          "name": "kalashmishra21",
+          "description": "",
+          "url": "https://github.com/kalashmishra21/kalashmishra21",
+          "stargazerCount": 0,
+          "forkCount": 0,
+          "primaryLanguage": null,
+          "isFork": false,
+          "updatedAt": "2026-07-26T03:29:54Z",
+          "license": null
+        },
         {
           "name": "profile-aura",
           "description": "🚀 Transform your GitHub README with Profile Aura! Pixel-perfect SVG portfolios powered by Vercel Satori and React.",
@@ -149,19 +42,8 @@
             "color": "#38BDF8"
           },
           "isFork": false,
-          "updatedAt": "2026-07-25T16:10:51Z",
+          "updatedAt": "2026-07-26T03:27:56Z",
           "license": "MIT"
-        },
-        {
-          "name": "kalashmishra21",
-          "description": "",
-          "url": "https://github.com/kalashmishra21/kalashmishra21",
-          "stargazerCount": 0,
-          "forkCount": 0,
-          "primaryLanguage": null,
-          "isFork": false,
-          "updatedAt": "2026-07-25T07:47:33Z",
-          "license": null
         },
         {
           "name": "LeaveFlow",
@@ -243,12 +125,12 @@
         }
       ],
       "socials": {
-        "github": "https://github.com/kalashmishra21",
-        "linkedin": "https://www.linkedin.com/in/kalashmishra21",
-        "email": "mailto:kalashji21@gmail.com"
+        "github": "https://github.com/octocat",
+        "linkedin": "https://linkedin.com/in/octocat",
+        "email": "mailto:octocat@github.com"
       }
     },
-    "timestamp": 1784996702661,
+    "timestamp": 1785038826466,
     "ttlMs": 86400000
   }
 }
