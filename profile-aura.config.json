@@ -23,8 +23,8 @@
       "twitter": "https://twitter.com/"
     }
   },
-  "theme": "black-obsidian",
-  "template": "editorial-hero",
+  "theme": "gojo-limitless",
+  "template": "bento-grid",
   "sections": {
     "hero": {
       "enabled": true,
