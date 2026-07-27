@@ -15,7 +15,13 @@
     "location": "India",
     "website": "",
     "avatarUrl": "",
-    "socials": {}
+    "socials": {
+      "email": "mailto:kalashji21@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/kalashmishra21/",
+      "pinterest": "https://pinterest.com/",
+      "leetcode": "https://leetcode.com/u/KALASH_MISHRA/",
+      "twitter": "https://twitter.com/"
+    }
   },
   "theme": "black-obsidian",
   "template": "editorial-hero",

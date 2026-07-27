@@ -1,27 +1,39 @@
 <div align="center">
-  <img src=".github/assets/generated/hero.svg?v=1785130495" alt="Kalash Mishra — Profile Hero" width="100%" title="✨ made by profile-aura" />
+  <img src=".github/assets/generated/hero.svg?v=1785131858" alt="Kalash Mishra — Profile Hero" width="100%" title="✨ made by profile-aura" />
 </div>
 
 ---
 
 <div align="center">
-  <img src=".github/assets/generated/overview.svg?v=1785130495" alt="Profile Overview" width="100%" title="✨ made by profile-aura" />
+  <img src=".github/assets/generated/overview.svg?v=1785131858" alt="Profile Overview" width="100%" title="✨ made by profile-aura" />
 </div>
 
 ---
 
 <div align="center">
-  <img src=".github/assets/generated/metrics.svg?v=1785130495" alt="Profile Metrics" width="100%" title="✨ made by profile-aura" />
+  <img src=".github/assets/generated/metrics.svg?v=1785131858" alt="Profile Metrics" width="100%" title="✨ made by profile-aura" />
 </div>
 
 ---
 
 <div align="center">
-  <img src=".github/assets/generated/techstack.svg?v=1785130495" alt="Technical Ecosystem" width="100%" title="✨ made by profile-aura" />
+  <img src=".github/assets/generated/techstack.svg?v=1785131858" alt="Technical Ecosystem" width="100%" title="✨ made by profile-aura" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Designed with <a href="https://github.com/kalashmishra21/profile-aura">Profile Aura 2.0</a></sub>
+
+### 🤝 Connect & Social Links
+
+<p align="center">
+<a href="mailto:kalashji21@gmail.com"><img src="https://img.shields.io/badge/EMAIL-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a> <a href="https://www.linkedin.com/in/kalashmishra21/"><img src="https://img.shields.io/badge/LINKEDIN-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> <a href="https://pinterest.com/"><img src="https://img.shields.io/badge/PINTEREST-A855F7?style=for-the-badge&logo=pinterest&logoColor=white" alt="pinterest" /></a> <a href="https://leetcode.com/u/KALASH_MISHRA/"><img src="https://img.shields.io/badge/LEETCODE-A855F7?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" /></a> <a href="https://twitter.com/"><img src="https://img.shields.io/badge/TWITTER-A855F7?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed by <a href="https://github.com/kalashmishra21/profile-aura">Profile Aura</a></sub>
 </div>
