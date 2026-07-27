@@ -18,16 +18,6 @@
 <clipPath id="satori_bc-id"><path x="0" y="0" width="800" height="160" d="M20,0 h760 a20,20 0 0 1 20,20 v120 a20,20 0 0 1 -20,20 h-760 a20,20 0 0 1 -20,-20 v-120 a20,20 0 0 1 20,-20"/></clipPath>
 </defs>
 
-    <style>
-      @keyframes float {
-        0%, 100% { transform: translateY(0px); }
-        50% { transform: translateY(-4px); }
-      }
-      .float-content {
-        animation: float 6s ease-in-out infinite;
-      }
-    </style>
-  
 
     <!-- Full Background -->
     <rect width="800" height="160" fill="url(#spaceBg)" rx="12" />
