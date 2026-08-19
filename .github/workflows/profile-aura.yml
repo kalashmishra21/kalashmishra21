@@ -27,7 +27,7 @@ jobs:
           node-version: 22
 
       - name: Generate Profile Aura
-        run: npx --yes profile-aura@4.0.10 build
+        run: npx --yes profile-aura@latest build
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WORKFLOW_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
@@ -43,7 +43,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Wrap Snake Game in Profile Aura Theme
-        run: npx --yes profile-aura@4.0.10 wrap-snake .github/assets/generated/snake.svg
+        run: npx --yes profile-aura@latest wrap-snake .github/assets/generated/snake.svg
 
       - name: Commit & Push Changes
         run: |
@@ -51,6 +51,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
           git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-update profile aura and snake" && git push)
+
 
 
 
