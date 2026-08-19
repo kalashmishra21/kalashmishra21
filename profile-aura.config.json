@@ -46,24 +46,7 @@
                      "techStack":  {
                                        "enabled":  true,
                                        "categories":  [
-                                                          {
-                                                              "category":  "Languages",
-                                                              "skills":  [
-                                                                             "JavaScript",
-                                                                             "TypeScript",
-                                                                             "Python",
-                                                                             "HTML"
-                                                                         ]
-                                                          },
-                                                          {
-                                                              "category":  "Frameworks",
-                                                              "skills":  [
-                                                                             "React",
-                                                                             "Next.js",
-                                                                             "Node.js",
-                                                                             "Django"
-                                                                         ]
-                                                          }
+
                                                       ]
                                    },
                      "socials":  {
