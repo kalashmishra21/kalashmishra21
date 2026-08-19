@@ -1,79 +1,85 @@
 {
-  "github": {
-    "username": "kalashmishra21",
-    "includePrivate": true
-  },
-  "profile": {
-    "name": "",
-    "username": "",
-    "roles": [
-      "Open Source Developer",
-      "Full Stack Engineer"
-    ],
-    "bio": "Full Stack Engineer passionate about building scalable web applications with React, Node.js, and Python. Open source contributor and lifelong learner.",
-    "company": "",
-    "location": "India",
-    "website": "",
-    "avatarUrl": "",
-    "socials": {
-      "email": "mailto:kalashji21@gmail.com",
-      "linkedin": "https://www.linkedin.com/in/kalashmishra21/",
-      "pinterest": "https://pinterest.com/",
-      "leetcode": "https://leetcode.com/u/KALASH_MISHRA/",
-      "twitter": "https://twitter.com/"
-    }
-  },
-  "theme": "corporate-light",
-  "template": "bento-grid",
-  "sections": {
-    "hero": {
-      "enabled": true,
-      "style": "magazine"
-    },
-    "stats": {
-      "enabled": true,
-      "show": [
-        "contributions",
-        "commits",
-        "prs",
-        "issues",
-        "stars"
-      ]
-    },
-    "streak": {
-      "enabled": true
-    },
-    "techStack": {
-      "enabled": true,
-      "categories": [
-        {
-          "category": "Languages",
-          "skills": [
-            "JavaScript",
-            "TypeScript",
-            "Python",
-            "HTML"
-          ]
-        },
-        {
-          "category": "Frameworks",
-          "skills": [
-            "React",
-            "Next.js",
-            "Node.js",
-            "Django"
-          ]
-        }
-      ]
-    },
-    "socials": {
-      "enabled": true
-    }
-  },
-  "output": {
-    "readmePath": "README.md",
-    "assetsDir": ".github/assets/generated",
-    "heroSvgFilename": "hero.svg",
-    "statsSvgFilename": "stats.svg"
-  }
+    "github":  {
+                   "username":  "kalashmishra21",
+                   "includePrivate":  true
+               },
+    "profile":  {
+                    "name":  "",
+                    "username":  "",
+                    "roles":  [
+                                  "Open Source Developer",
+                                  "Full Stack Engineer"
+                              ],
+                    "bio":  "Full Stack Engineer passionate about building scalable web applications with React, Node.js, and Python. Open source contributor and lifelong learner.",
+                    "company":  "",
+                    "location":  "India",
+                    "website":  "",
+                    "avatarUrl":  "",
+                    "socials":  {
+                                    "email":  "mailto:kalashji21@gmail.com",
+                                    "linkedin":  "https://www.linkedin.com/in/kalashmishra21/",
+                                    "pinterest":  "https://pinterest.com/",
+                                    "leetcode":  "https://leetcode.com/u/KALASH_MISHRA/",
+                                    "twitter":  "https://twitter.com/"
+                                }
+                },
+    "theme":  "void-dark",
+    "template":  "bento-grid",
+    "sections":  {
+                     "hero":  {
+                                  "enabled":  true,
+                                  "style":  "magazine"
+                              },
+                     "stats":  {
+                                   "enabled":  true,
+                                   "show":  [
+                                                "contributions",
+                                                "commits",
+                                                "prs",
+                                                "issues",
+                                                "stars"
+                                            ]
+                               },
+                     "streak":  {
+                                    "enabled":  true
+                                },
+                     "techStack":  {
+                                       "enabled":  true,
+                                       "categories":  [
+                                                          {
+                                                              "category":  "Languages",
+                                                              "skills":  [
+                                                                             "JavaScript",
+                                                                             "TypeScript",
+                                                                             "Python",
+                                                                             "HTML"
+                                                                         ]
+                                                          },
+                                                          {
+                                                              "category":  "Frameworks",
+                                                              "skills":  [
+                                                                             "React",
+                                                                             "Next.js",
+                                                                             "Node.js",
+                                                                             "Django"
+                                                                         ]
+                                                          }
+                                                      ]
+                                   },
+                     "socials":  {
+                                     "enabled":  true
+                                 },
+                     "repos":  {
+                                   "enabled":  false
+                               },
+                     "graph":  {
+                                   "enabled":  false
+                               }
+                 },
+    "output":  {
+                   "readmePath":  "README.md",
+                   "assetsDir":  ".github/assets/generated",
+                   "heroSvgFilename":  "hero.svg",
+                   "statsSvgFilename":  "stats.svg"
+               }
 }
