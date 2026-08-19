@@ -14,11 +14,11 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/182469784?v=4",
       "followers": 8,
       "following": 19,
-      "publicRepos": 17,
+      "publicRepos": 15,
       "stats": {
         "totalStars": 1,
-        "totalContributions": 1225,
-        "totalCommits": 1200,
+        "totalContributions": 1228,
+        "totalCommits": 1203,
         "totalPRs": 10,
         "totalIssues": 0,
         "currentStreak": 3,
@@ -3870,7 +3870,7 @@
           },
           {
             "date": "2026-08-19",
-            "count": 22
+            "count": 25
           }
         ]
       },
@@ -3886,7 +3886,7 @@
             "color": "#3178c6"
           },
           "isFork": false,
-          "updatedAt": "2026-08-19T10:47:18Z",
+          "updatedAt": "2026-08-19T10:53:08Z",
           "license": "MIT"
         },
         {
@@ -3897,7 +3897,7 @@
           "forkCount": 0,
           "primaryLanguage": null,
           "isFork": false,
-          "updatedAt": "2026-08-19T10:21:14Z",
+          "updatedAt": "2026-08-19T10:51:09Z",
           "license": null
         },
         {
@@ -3912,31 +3912,6 @@
           "license": null
         },
         {
-          "name": "priv",
-          "description": "",
-          "url": "https://github.com/kalashmishra21/priv",
-          "stargazerCount": 0,
-          "forkCount": 0,
-          "primaryLanguage": null,
-          "isFork": false,
-          "updatedAt": "2026-08-18T13:33:09Z",
-          "license": null
-        },
-        {
-          "name": "Leetcode-Solved-Questions-By-Me",
-          "description": "A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)",
-          "url": "https://github.com/kalashmishra21/Leetcode-Solved-Questions-By-Me",
-          "stargazerCount": 0,
-          "forkCount": 0,
-          "primaryLanguage": {
-            "name": "Java",
-            "color": "#b07219"
-          },
-          "isFork": false,
-          "updatedAt": "2026-08-18T08:49:49Z",
-          "license": null
-        },
-        {
           "name": "OmniServe-3D-",
           "description": "\"A next-generation, real-time Food Delivery & Kitchen Management Hub. Built with a modern MERN stack and real-time WebSockets. Featuring smart dispatching, role-based dashboards (Restaurant & Delivery Partners), live tracking, and advanced analytics. upgraded with cutting-edge 3D UI, AR food previews, and an AI conversational avatar \"",
           "url": "https://github.com/kalashmishra21/OmniServe-3D-",
@@ -3948,6 +3923,34 @@
           },
           "isFork": false,
           "updatedAt": "2026-07-29T16:09:51Z",
+          "license": null
+        },
+        {
+          "name": "MIndfulByte",
+          "description": "MindfulByte is a web app that delivers daily, bite-sized psychology concepts with real-world examples and quizzes to promote self-awareness and mental well-being in a fun, time-efficient way.",
+          "url": "https://github.com/kalashmishra21/MIndfulByte",
+          "stargazerCount": 0,
+          "forkCount": 0,
+          "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          },
+          "isFork": false,
+          "updatedAt": "2026-07-28T03:27:45Z",
+          "license": null
+        },
+        {
+          "name": "Nomino-Pro",
+          "description": "A comprehensive food delivery management platform built with React.js, Node.js, Express.js, and MongoDB. Nomino Pro streamlines restaurant operations and delivery management with real-time tracking, role-based dashboards, and advanced analytics.",
+          "url": "https://github.com/kalashmishra21/Nomino-Pro",
+          "stargazerCount": 0,
+          "forkCount": 0,
+          "primaryLanguage": {
+            "name": "JavaScript",
+            "color": "#f1e05a"
+          },
+          "isFork": false,
+          "updatedAt": "2026-07-28T03:27:43Z",
           "license": null
         }
       ],
@@ -3968,11 +3971,6 @@
           "color": "#3178c6"
         },
         {
-          "name": "Java",
-          "count": 1,
-          "color": "#b07219"
-        },
-        {
           "name": "HTML",
           "count": 1,
           "color": "#e34c26"
@@ -3986,7 +3984,7 @@
         "twitter": "https://twitter.com/"
       }
     },
-    "timestamp": 1787136463837,
+    "timestamp": 1787137238232,
     "ttlMs": 86400000
   }
 }

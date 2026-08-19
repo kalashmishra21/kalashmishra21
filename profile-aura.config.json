@@ -46,7 +46,36 @@
                      "techStack":  {
                                        "enabled":  true,
                                        "categories":  [
-
+                                                          {
+                                                              "skills":  [
+                                                                             "JavaScript",
+                                                                             "Python",
+                                                                             "TypeScript",
+                                                                             "Java",
+                                                                             "HTML"
+                                                                         ],
+                                                              "category":  "Languages"
+                                                          },
+                                                          {
+                                                              "skills":  [
+                                                                             "React",
+                                                                             "Next.js",
+                                                                             "Node.js",
+                                                                             "Django",
+                                                                             "Tailwind CSS"
+                                                                         ],
+                                                              "category":  "Frameworks"
+                                                          },
+                                                          {
+                                                              "skills":  [
+                                                                             "Git",
+                                                                             "GitHub",
+                                                                             "Docker",
+                                                                             "VS Code",
+                                                                             "Postman"
+                                                                         ],
+                                                              "category":  "Tools"
+                                                          }
                                                       ]
                                    },
                      "socials":  {
