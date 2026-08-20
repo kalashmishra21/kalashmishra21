@@ -27,7 +27,7 @@ jobs:
           node-version: 22
 
       - name: Generate Profile Aura
-        run: npx --yes profile-aura@latest build
+        run: npx --yes profile-aura@5.0.1 build
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WORKFLOW_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
@@ -43,7 +43,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Wrap Snake Game in Profile Aura Theme
-        run: npx --yes profile-aura@latest wrap-snake .github/assets/generated/snake.svg
+        run: npx --yes profile-aura@5.0.1 wrap-snake .github/assets/generated/snake.svg
 
       - name: Commit & Push Changes
         run: |
